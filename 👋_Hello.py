@@ -32,7 +32,7 @@ st.markdown(
     ### How to run this application
     - Open project in VSCode
     - Open Terminal in VSCode
-    - Run "streamlit run D:\HocMay\MachineLearning\👋_Hello.py [ARGUMENTS]" (Please change your path)
+    - Run "streamlit run ??_Hello.py [ARGUMENTS]"
     - If there is an error please import the library and run it again
     ### Student
     - Võ Hoàn Hảo - 20110472

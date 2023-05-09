@@ -1,5 +1,5 @@
-streamlit_drawable_canvas
-opencv-python
-joblib
-pandas<2.0.0
-tensorflow
+apt-get streamlit_drawable_canvas
+apt-get opencv-python
+apt-get joblib
+apt-get pandas<2.0.0
+apt-get tensorflow

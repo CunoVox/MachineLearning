@@ -1,4 +1,4 @@
-import streamlit_drawable_canvas as canvas
+# import streamlit_drawable_canvas as canvas
 import tkinter as tk
 from PIL import ImageTk, Image
 import streamlit as st

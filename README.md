@@ -11,7 +11,10 @@ Build a Machine Learning web application in Python with Streamlit.
 ### How to run this application
     - Open project in VSCode
     - Open Terminal in VSCode and Run:
-    ```streamlit run D:\HocMay\MachineLearning\👋_Hello.py [ARGUMENTS]" (Please change your path)```
+    ```bash
+    streamlit run D:\HocMay\MachineLearning\👋_Hello.py [ARGUMENTS]"
+    ```
+    - (Please change your path)
     - If there is an error please import the library and run it again
 ### Student
     - Võ Hoàn Hảo - 20110472
@@ -19,7 +22,7 @@ Build a Machine Learning web application in Python with Streamlit.
 ### Teacher
     - Trần Tiến Đức
 ### Source code
-    - code: https://github.com/CunoVox/MachineLearning.git
+    - code: [https://github.com/CunoVox/MachineLearning.git](https://github.com/CunoVox/MachineLearning.git)
 ### Reference
     - Teacher Tran Tien Duc
     - https://www.youtube.com/watch?v=1xtrIEwY_zY

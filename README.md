@@ -12,7 +12,7 @@ Build a Machine Learning web application in Python with Streamlit.
 - Open project in VSCode
 - Open Terminal in VSCode and Run:
 ```bash
-streamlit run D:\HocMay\MachineLearning\👋_Hello.py [ARGUMENTS]"
+streamlit run D:\HocMay\MachineLearning\👋_Hello.py [ARGUMENTS]
 ```
 - (Please change your path)
 - If there is an error please import the library and run it again

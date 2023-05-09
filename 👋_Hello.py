@@ -2,7 +2,7 @@
 
 import streamlit as st
 from PIL import Image
-image = Image.open('D:/HocMay/MachineLearning/uteicon.jpg')
+image = Image.open('uteicon.jpg')
 st.set_page_config(
     page_title="Hello",
     page_icon="👋",

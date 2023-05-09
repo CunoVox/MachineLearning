@@ -1,4 +1,2 @@
-opencv-python
-joblib
-pandas<2.0.0
-tensorflow
+freeglut3-dev
+libgtk2.0-dev

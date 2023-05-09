@@ -1,0 +1,5 @@
+streamlit_drawable_canvas
+opencv-python
+joblib
+pandas<2.0.0
+tensorflow
